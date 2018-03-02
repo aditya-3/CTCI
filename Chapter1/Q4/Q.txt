@@ -1,2 +1,2 @@
-implement a algorithm to replace a white space with "%20".
+implement a algorithm to check whether a string is a palindrome or not.
 input: a line of characters with its length 
