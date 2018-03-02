@@ -1,4 +1,4 @@
-#include "Q1.h"
+#include "Q2.h"
 int checkValue(char *ptr){
 	int val,check=0,i=0;
 	while(ptr[i]){

@@ -1,5 +1,5 @@
 
-#include"Q1.h"
+#include"Q2.h"
 
 void main(){
 	int flag,i=0,len1,len2;
