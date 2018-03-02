@@ -1,0 +1,2 @@
+implement a algorithm to replace a white space with "%20".
+input: a line of characters with its length 
